@@ -1,0 +1,5 @@
+This project presents an IoT-based Smart Water Irrigation and Farm Security System built using the ESP8266 microcontroller. The system automates irrigation by continuously monitoring soil moisture levels and activates a water pump only when necessary, ensuring efficient water usage and sustainable farming practices.
+
+In addition to automated irrigation, the system integrates temperature and humidity monitoring using the DHT11 sensor and includes an ultrasonic-based animal detection mechanism that triggers a buzzer alert for crop protection. The project also features Telegram Bot integration, enabling real-time monitoring and remote control of the irrigation system from anywhere.
+
+Designed with both manual and automatic operating modes, the system demonstrates practical implementation of embedded systems, sensor integration, actuator control, and IoT communication. It highlights how automation and wireless connectivity can enhance agricultural efficiency, reduce resource wastage, and improve farm security.
