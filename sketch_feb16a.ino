@@ -9,7 +9,7 @@
 #define WIFI_PASSWORD "___"
 
 // --- TELEGRAM BOT TOKEN ---
-#define BOT_TOKEN "8344243763:AAHXKoPfH_PAR87zFFxOsYK41OGsaSkds18"
+#define BOT_TOKEN "_"
 
 // --- PIN DEFINITIONS ---
 #define PUMP_PIN    D0      // L298N IN1
