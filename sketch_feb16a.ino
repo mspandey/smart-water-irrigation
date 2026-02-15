@@ -6,7 +6,7 @@
 
 // --- WiFi CREDENTIALS ---
 #define WIFI_SSID "PROJECT.IO"
-#define WIFI_PASSWORD "yuvraj2006"
+#define WIFI_PASSWORD "___"
 
 // --- TELEGRAM BOT TOKEN ---
 #define BOT_TOKEN "8344243763:AAHXKoPfH_PAR87zFFxOsYK41OGsaSkds18"
